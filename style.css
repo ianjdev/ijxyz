@@ -110,3 +110,9 @@ body {
 #settings:hover {
     transform: scale(1.25) rotate(90deg);
 }
+
+@media(max-width: 600px) {
+    #time {
+        font-size: 3.5rem;
+    }
+}
